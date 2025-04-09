@@ -80,5 +80,5 @@ I'm a beginner programming student in Argentina and a big fan of Club Atlético 
 [![Visitors](https://komarev.com/ghpvc/?username=ARESxARG&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/codingbyale)
 > A vos te vi mirando el perfil, no te hagás el boludo 😎
 
-Creditos: [ARESxARG](https://github.com/ARESxARG)
-Última edición : 09/04/2025
+<!-- Creditos: [ARESxARG](https://github.com/ARESxARG)
+Última edición : 09/04/2025 -->
