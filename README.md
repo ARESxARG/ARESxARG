@@ -1,36 +1,100 @@
-<h1 align="center">¡Hi , i'm Alejo!</h1>
-<h3 align="center">Programming student in Argentina</h3>
+<!-- README.md para tu perfil de GitHub creado por Alejo Ortiz -->
+<h1 align="center">Hi everyone! I'm Alejo 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aresxarg&label=Profile%20views&color=0e75b6&style=flat" alt="aresxarg" /> </p>
+<p align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aresxarg" alt="aresxarg" /></a> </p>
+<!-- Breve introducción presonal-->
 
-<p align="left"> <a href="https://twitter.com/alejoortiz0" target="blank"><img src="https://img.shields.io/twitter/follow/alejoortiz0?logo=twitter&style=for-the-badge" alt="alejoortiz0" /></a> </p>
+I'm a beginner programming student in Argentina and a big fan of Club Atlético River Plate. I'm currently learning about coding and the different programming languages ​​available. I'm looking to be part of any project to gain experience.
 
-- 🔭 Currently working on a [Python and Java Course](https://aresxarg.github.io/codingbyale/)
-
-- 🌱 Currently learning **Advanced Python and creating web pages with HTML5**
-
-- 👯 I am looking for the possibility of being part of projects in **Python, HTML5, Java and C++**
-
-- 👨‍💻 My available projects [https://github.com/ARESxARG](https://github.com/ARESxARG)
-
-- 📫 Contact me **ortiz.alejonicolas@gmail.com or (+54)11-6113-6399**
-
-- 📄 Curriculum Vitae [https://www.linkedin.com/in/alejo-ortiz-83b729352/](https://www.linkedin.com/in/alejo-ortiz-83b729352/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alejoortiz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alejoortiz0" height="30" width="40" /></a>
-<a href="https://fb.com/nicolas.ortiz.747890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nicolas.ortiz.747890" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/dNcXqs2Z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/dNcXqs2Z" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aresxarg&show_icons=true&locale=en&layout=compact" alt="aresxarg" /></p>
+### 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aresxarg&show_icons=true&locale=en" alt="aresxarg" /></p>
+<!-- Objetivos, información importante -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aresxarg&" alt="aresxarg" /></p>
+- 📫 Currently studying at the "Instituto Tecnológico Beltrán" and the "Centro de Formación Profesional" (CFL 414) in Buenos Aires, Argentina.
+- 🔭 Currently working on a [Python and Java Course.](https://aresxarg.github.io/codingbyale/)
+- 🌱 Currently learning advanced Python, creating web pages with HTML5.
+- 👨‍💻 My available [projects](https://github.com/ARESxARG)
+- 📄 My [resume](https://www.linkedin.com/in/alejo-ortiz-83b729352/)
+
+---
+
+### 📬 Contact Me
+
+<!-- Datos de contacto para diferentes plataformas -->
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ortiz.alejonicolas@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/541161136399)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/nicolas.ortiz.747890)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/dNcXqs2Z)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ARESxARG)
+[![Twitter](https://img.shields.io/badge/-X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/alejoortiz0)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejo-ortiz-83b729352/)
+
+---
+
+### 🧰 Skills
+
+<!-- Habilidades/Conocimientos de Lenguaje -->
+
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
+![PSeInt](https://img.shields.io/badge/-PSeInt-000?style=flat&logo=pocket)
+![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-000?style=flat&logo=googleanalytics)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visualstudiocode)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?style=flat&logo=jupyter)
+
+> Many more crazy things coming soon... 💻🔥
+
+---
+
+### 🧳 Job Profile
+
+<!-- Observaciones de trabajos -->
+
+- 🎮 Working on my own mini-projects ([website on GitHub](https://aresxarg.github.io/codingbyale/)).
+- 🥟 Creating explanations for my courses in VS Code
+- 💡 Freelance Working.
+
+---
+
+### 📄 Download Space / Repository
+
+<!-- Descarga de archivos varios -->
+
+[![GitHub](https://img.shields.io/badge/-CV%20on%20GitHub-24292e?style=flat&logo=github&logoColor=white)](https://codingbyale.github.io/cv.pdf)
+[![Mega](https://img.shields.io/badge/-Download%20from%20Mega-d90007?style=flat&logo=mega&logoColor=white)](https://mega.nz/tu-link)
+[![MediaFire](https://img.shields.io/badge/-Download%20from%20MediaFire-0A66C2?style=flat&logo=mediafire&logoColor=white)](https://www.mediafire.com/file/tu-archivo)
+[![OneDrive](https://img.shields.io/badge/-Download%20from%20OneDrive-0078D4?style=flat&logo=microsoft-onedrive&logoColor=white)](https://onedrive.live.com/tu-archivo)
+
+---
+
+### 📊 GitHub Stats
+
+<!-- Estadisticas de GitHub -->
+<p align="center">
+<a href="https://github.com/ARESxARG">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ARESxARG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ARESxARG&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
+
+### 🧩 ¡Happy Coding!
+
+<!-- Agrega lo que desees y alguna frase -->
+
+[![Visitors](https://komarev.com/ghpvc/?username=codingbyale&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/codingbyale)
+
+> A vos te vi mirando el perfil, no te hagás el boludo 😎
